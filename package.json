@@ -1,0 +1,26 @@
+{
+  "author": "Niko Pettersen <niko.pettersen@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/Phoenix2k/electron-starter-ts/issues"
+  },
+  "description": "Electron starter app with TypeScript support",
+  "homepage": "https://github.com/Phoenix2k/electron-starter-ts#readme",
+  "keywords": [
+    "electron",
+    "starter",
+    "app",
+    "typescript",
+    "ts"
+  ],
+  "license": "CC0-1.0",
+  "main": "index.js",
+  "name": "electron-starter-ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phoenix2k/electron-starter-ts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
