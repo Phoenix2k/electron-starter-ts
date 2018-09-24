@@ -5,12 +5,14 @@
 		"module": "CommonJS",
 		"moduleResolution": "Node",
 		"noImplicitAny": false,
+		"outDir": "dist",
 		"removeComments": false,
 		"sourceMap": true,
 		"suppressImplicitAnyIndexErrors": true,
 		"target": "ESNext"
 	},
 	"exclude": [
+		"dist",
 		"node_modules"
 	]
 }
