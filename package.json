@@ -11,9 +11,9 @@
   "homepage": "https://github.com/Phoenix2k/electron-starter-ts#readme",
   "keywords": [
     "electron",
+    "typescript",
     "starter",
     "app",
-    "typescript",
     "ts"
   ],
   "license": "CC0-1.0",
@@ -24,7 +24,8 @@
     "url": "git+https://github.com/Phoenix2k/electron-starter-ts.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile": "node_modules/typescript/bin/tsc",
+    "start": "node_modules/electron/cli.js dist/index.js"
   },
   "version": "1.0.0"
 }
