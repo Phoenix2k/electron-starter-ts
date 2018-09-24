@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"module": "CommonJS",
+		"moduleResolution": "Node",
+		"noImplicitAny": false,
+		"removeComments": false,
+		"sourceMap": true,
+		"suppressImplicitAnyIndexErrors": true,
+		"target": "ESNext"
+	},
+	"exclude": [
+		"node_modules"
+	]
+}
