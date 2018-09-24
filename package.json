@@ -17,8 +17,8 @@
     "ts"
   ],
   "license": "CC0-1.0",
-  "main": "index.js",
   "name": "electron-starter-ts",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Phoenix2k/electron-starter-ts.git"
