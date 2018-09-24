@@ -4,6 +4,9 @@
     "url": "https://github.com/Phoenix2k/electron-starter-ts/issues"
   },
   "description": "Electron starter app with TypeScript support",
+  "devDependencies": {
+    "electron": "^3.0.0"
+  },
   "homepage": "https://github.com/Phoenix2k/electron-starter-ts#readme",
   "keywords": [
     "electron",
