@@ -16,7 +16,7 @@
     "app",
     "ts"
   ],
-  "license": "CC0-1.0",
+  "license": "MIT",
   "name": "electron-starter-ts",
   "private": true,
   "repository": {

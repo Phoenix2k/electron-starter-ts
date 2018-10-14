@@ -42,6 +42,4 @@ $ npm start
 [typescript-guide]: https://medium.com/@davembush/typescript-and-electron-the-right-way-141c2e15e4e1 "TypeScript and Electron The Right Way"
 
 ## License
-Creative Commons &mdash; CC0 1.0 Universal (Public Domain)
-
-[![License](https://img.shields.io/badge/license-CC0%201.0-green.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE.md)
