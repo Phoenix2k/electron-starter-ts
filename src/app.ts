@@ -1,3 +1,5 @@
+'use strict';
+
 import { BrowserWindow } from 'electron';
 
 export default class App {
