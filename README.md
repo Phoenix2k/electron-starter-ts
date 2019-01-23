@@ -43,7 +43,7 @@ $ npm start
 * [TypeScript and Electron The Right Way][typescript-guide]
 
 ## License
-[![MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE.md)
+[![MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE.md) [![Greenkeeper badge](https://badges.greenkeeper.io/Phoenix2k/electron-starter-ts.svg)](https://greenkeeper.io/)
 
 [electron]: https://electronjs.org/ "Electron"
 [electron-quick-start]: https://electronjs.org/docs/tutorial/quick-start "Electron Quick Start guide"
