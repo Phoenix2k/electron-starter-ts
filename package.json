@@ -1,21 +1,25 @@
 {
-  "author": "Niko Pettersen <niko.pettersen@gmail.com>",
+  "author": "Niko Pettersen",
   "bugs": {
     "url": "https://github.com/Phoenix2k/electron-starter-ts/issues"
   },
   "description": "Electron starter app with TypeScript support",
   "devDependencies": {
-    "electron": "^7.1.7",
-    "tslint": "^5.20.1",
-    "typescript": "^3.7.4"
+    "electron": "^8.2.1",
+    "tslint": "^6.1.1",
+    "typescript": "^3.8.3"
+  },
+  "engines": {
+    "node": "^12.13.0",
+    "npm": "^6.14.0"
   },
   "homepage": "https://github.com/Phoenix2k/electron-starter-ts#readme",
   "keywords": [
-    "electron",
-    "typescript",
-    "starter",
     "app",
-    "ts"
+    "electron",
+    "starter",
+    "ts",
+    "typescript"
   ],
   "license": "MIT",
   "name": "electron-starter-ts",
